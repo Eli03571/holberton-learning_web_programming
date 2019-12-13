@@ -1,0 +1,14 @@
+#bioheading{
+	font-size: 24px; 
+}
+
+#biodescription{
+	font-family: "roboto";
+	font-size: 18px;
+	line-height: 30pt;
+}
+
+#container_bio_description{
+	background-color: pink;
+	color :black;
+}
